@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("这是demo的修改,已经看到了下面");
 		System.out.println("这是demo2的修改");
 		System.out.println("no again");
+		System.out.println("demo2分支新增加的内容");
 
 	}
 
